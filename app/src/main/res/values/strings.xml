@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculadoraSimples</string>
+    <string name="bt_soma">Somar</string>
+    <string name="bt_subtracao">Subtrair</string>
+    <string name="bt_divisao">Dividir</string>
+    <string name="bt_multiplicacao">Multiplicação</string>
+    <string name="edi_valor1">1° valor</string>
+    <string name="edi_valor2">2° valor</string>
+    <string name="txt_resultado">00</string>
+</resources>
